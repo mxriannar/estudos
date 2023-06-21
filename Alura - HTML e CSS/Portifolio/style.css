@@ -68,3 +68,7 @@ body {
     text-decoration: none;
     color: #F6F6F6;
 }
+
+.links__estilo:hover {
+    background-color: #272727;
+}
