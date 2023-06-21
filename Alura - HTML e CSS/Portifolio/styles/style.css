@@ -41,18 +41,23 @@ body {
     gap: 40px;
 }
 
-.titulo {
+.apresentacao__conteudo__titulo {
     font-size: 36px;
     font-family: 'Krona One', sans-serif;
 }
 
-.titulo_destaque {
+.apresentacao__conteudo__titulo-destaque {
     color: #22D4FD;
 }
 
-.texto {
+.apresentacao__conteudo__texto {
     font-size: 24px;
     font-family: 'Montserrat', sans-serif;
+}
+
+.apresentacao__conteudo__texto a{
+    text-decoration: none;
+    color: #22D4FD;
 }
 
 .links {
