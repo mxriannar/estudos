@@ -17,6 +17,19 @@ body {
     justify-content: space-between;
 }
 
+.apresentacao__conteudo {
+    width: 615px;
+    height: ;
+}
+
+.titulo {
+    font-size: 36px;
+}
+
 .titulo_destaque {
     color: #22D4FD;
+}
+
+.texto {
+    font-size: 24px;
 }
