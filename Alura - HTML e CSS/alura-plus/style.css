@@ -17,6 +17,22 @@ body {
 
 .container {
     height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.container__botao {
+    background-color: var(--cor-destaque);
+    border-radius: 8px;
+    padding: 1rem;
+    color: var(--cor-principal);
+    display: block;
+}
+
+.botao_secundario {
+    background-color: transparent;
+    border: 2px solid var(--cor-principal);
+
 }
 
 .principal {
@@ -24,3 +40,4 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
 } 
+
