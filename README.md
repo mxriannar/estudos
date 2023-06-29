@@ -15,6 +15,16 @@ Abaixo estarão as pré-visualizações dos projetos realizados.
   <img width= "800px" src="https://github.com/mxriannar/estudos/assets/86139436/78b498cc-faa5-48a9-9bf7-e5334c4c038d">
 </div>
 
+## Alura+
+<div align= "center">
+  <img width= "800px" src="https://github.com/mxriannar/estudos/assets/86139436/d6c074da-2f4a-4b9f-b982-8ff1800154e5"> 
+</div>
+
+## AluraBooks
+<div align= "center">
+  <img width= "800px" src="https://github.com/mxriannar/estudos/assets/86139436/cc17af60-0381-4bcc-827f-a93c5b01488c">
+</div>
+
 ## Ferramentas utilizadas:
 
 * HTML
