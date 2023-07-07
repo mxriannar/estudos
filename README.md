@@ -4,8 +4,8 @@ Esse é meu repositório com conteúdos relacionados aos meus estudos e projetos
 <br>
 <br>
 
-<h1 align="center">Projetos realizados</h1>
-Abaixo estarão as pré-visualizações dos projetos realizados.
+<h1 align="center">Projetos favoritos realizados</h1>
+Abaixo estarão as pré-visualizações de alguns projetos.
 
 <br>
 <br>
@@ -32,6 +32,8 @@ Abaixo estarão as pré-visualizações dos projetos realizados.
 * CSS
 
 * Flex-box
+  
+* Javascript
 
 ## Desenvolvido por
 Marianna Rodrigues
