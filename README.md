@@ -5,10 +5,6 @@ Esse é meu repositório com conteúdos relacionados aos meus estudos e projetos
 <br>
 
 <h1 align="center">Projetos favoritos realizados</h1>
-Abaixo estarão as pré-visualizações de alguns projetos.
-
-<br>
-<br>
 
 ## Portifólio
 <div align= "center">
